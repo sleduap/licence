@@ -93,7 +93,7 @@ class _LicenceState extends State<Licence> {
               //   height: 5,
               // ),
               Text(
-                "$licenceType asd",
+                "$licenceType asde",
                 style: const TextStyle(
                   fontSize: 24,
                   // fontWeight: FontWeight.bold,
