@@ -70,7 +70,7 @@ class _LicenceState extends State<Licence> {
               // SizedBox(
               //   height: 5,
               // ),
-              const Text(s
+              const Text(
                 "Sudarshan Sharma Paudel",
                 style: TextStyle(
                   fontSize: 24,
