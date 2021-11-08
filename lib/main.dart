@@ -71,7 +71,7 @@ class _LicenceState extends State<Licence> {
               //   height: 5,
               // ),
               const Text(
-                "Sudarshan",
+                "Sudarshan Paudel",
                 style: TextStyle(
                   fontSize: 24,
                   // fontWeight: FontWeight.bold,
