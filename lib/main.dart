@@ -39,7 +39,7 @@ class _LicenceState extends State<Licence> {
           backgroundColor: Colors.grey[900],
         ),
         body: Container(
-          padding: const EdgeInsets.fromLTRB(30, 40, 30, 0),
+          padding: const EdgeInsets.fromLTRB(35, 40, 35, 0),
           decoration: const BoxDecoration(
             gradient: LinearGradient(
                 colors: [Colors.red, Colors.blue],
