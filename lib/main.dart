@@ -23,7 +23,7 @@ class _LicenceState extends State<Licence> {
         appBar: AppBar(
           title: const Text("Licence"),
           centerTitle: true,
-          backgroundColor: Colors.grey[900],
+          backgroundColor: Colors.grey[800],
           elevation: 0,
         ),
         floatingActionButton: FloatingActionButton.extended(
